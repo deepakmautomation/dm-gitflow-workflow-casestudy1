@@ -9,14 +9,14 @@ public class Division {
 		System.out.println(div.div(6, 3));
 	}
 
-	public double div(double a, double b) {
+	public double div(double x, double y) {
 
 		double res=0;
 
-		if (b==0) {
-			System.out.println("divide by Zero not allowe");
+		if (x==0) {
+			System.out.println("divide by Zero not allowed");
 		}else {
-			res =  a/b;
+			res =  x/y;
 		}
 		return res;
 	}
