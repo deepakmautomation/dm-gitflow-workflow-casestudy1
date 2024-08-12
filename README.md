@@ -1,5 +1,6 @@
 
 Git-Flow workflow 
 
-![image](https://github.com/user-attachments/assets/aa0029b9-cc12-4917-8173-0213192d8f21)
+![git-casestudy1_1](https://github.com/user-attachments/assets/d3afa05c-2f1f-4da0-8000-436acd0e6c9e)
+
 
