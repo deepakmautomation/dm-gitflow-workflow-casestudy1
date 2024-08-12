@@ -1,6 +1,5 @@
 
-Git-Flow workflow 
-
-![git-casestudy1_1](https://github.com/user-attachments/assets/d3afa05c-2f1f-4da0-8000-436acd0e6c9e)
+**Git-Flow workflow**
 
 
+![git-casestudy1_2](https://github.com/user-attachments/assets/3436a596-0938-4e3c-b070-f466a1625612)
